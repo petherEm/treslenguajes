@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Tres Lenguajes - Inspired by Code With Antonio
 
-## Getting Started
+A Duo Lingo Clone.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is built with the following tech:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Next.js 14
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[Next.js 14](https://nextjs.org/) is the latest release of the popular React framework that enables functionality such as server-side rendering and generating static websites.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Server Actions
 
-## Learn More
+Server Actions in Next.js allow developers to write server-side logic that can be directly called from the client. This simplifies building interactive applications by reducing the need for additional serverless functions or configuring backend routes.
 
-To learn more about Next.js, take a look at the following resources:
+### Drizzle
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Drizzle is an emerging TypeScript ORM tool that offers several advantages over Prisma. While Prisma is known for its type safety and easy-to-use API, Drizzle offers a more flexible and extensible solution, specifically when handling complex queries with multiple JOINs.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Clerk
 
-## Deploy on Vercel
+[Clerk](https://clerk.com/) is a service that handles authentication and user management for modern applications. It seamlessly integrates with any technology stack and simplifies securing and personalizing user experiences.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Shadcn
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Shadcn](https://shadcn.com/) is a component library for React that allows developers to quickly build beautiful and responsive UIs with a design-first approach. It offers a range of customizable components that are easy to implement.
+
+## Features
+
+List down the features of your project here. For example:
+
+- Secure login system using Clerk
+- Dynamic pages and API routes with Next.js Server Actions
+- Beautiful UI components from Shadcn
+- Drizzle ORM for handling complex database queries
