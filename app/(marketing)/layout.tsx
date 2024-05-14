@@ -1,8 +1,14 @@
+import { Metadata } from "next";
 import { Footer } from "./footer";
 import { Header } from "./header";
 
 type Props = {
   children: React.ReactNode;
+};
+
+export const metadata: Metadata = {
+  title: "Tres Lenguajes - Inspired by Code With Antonio",
+  description: "Tres Lenguajes - Inspired by Code With Antonio",
 };
 
 const MarketingLayout = ({ children }: Props) => {

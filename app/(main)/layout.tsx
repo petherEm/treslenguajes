@@ -1,8 +1,14 @@
 import Sidebar from "@/components/Sidebar";
 import MobileHeader from "@/components/MobileHeader";
+import { Metadata } from "next";
 
 type Props = {
   children: React.ReactNode;
+};
+
+export const metadata: Metadata = {
+  title: "Tres Lenguajes - Inspired by Code With Antonio",
+  description: "Tres Lenguajes - Inspired by Code With Antonio",
 };
 
 const MainLayout = ({ children }: Props) => {
