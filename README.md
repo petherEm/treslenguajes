@@ -1,8 +1,19 @@
+<div>
+  <div>
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Next_._JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-drizzle-black?style=for-the-badge&logoColor=white&logo=drizzle&color=412991" alt="drizzle" />
+    <img src="https://img.shields.io/badge/-stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=0000FF" alt="stripe" />
+
+  </div>
+</div>
+
 # 🚀 Tres Lenguajes - Inspired by Code With Antonio
 
 A Duo Lingo Clone.
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 This project is built with the following tech:
 
@@ -26,7 +37,7 @@ Drizzle is an emerging TypeScript ORM tool that offers several advantages over P
 
 [Shadcn](https://shadcn.com/) is a component library for React that allows developers to quickly build beautiful and responsive UIs with a design-first approach. It offers a range of customizable components that are easy to implement.
 
-## Features
+## 🔋Features
 
 List down the features of your project here. For example:
 
